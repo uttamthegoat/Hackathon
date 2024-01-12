@@ -28,32 +28,18 @@ This is an e-commerce frontend project created for a hackathon using React, Vite
 
 - **Swiper:** A modern touch slider.
 
-## Project Structure
-
-/
-|-- src/
-| |-- components/ # Reusable components
-| |-- pages/ # Individual pages
-| |-- styles/ # Global styles and Tailwind CSS configuration
-| |-- App.js # Main application component
-| |-- index.js # Entry point
-|-- public/ # Static assets
-|-- .gitignore # Git ignore file
-|-- package.json # Project dependencies and scripts
-|-- README.md # Project documentation
-
 ## Getting Started
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/ecommerce-frontend.git
+    git clone https://github.com/uttamthegoat/Hackathon.git
     ```
 
 2. **Install dependencies:**
 
     ```bash
-    cd ecommerce-frontend
+    cd Hackathon
     npm install
     ```
 
@@ -63,7 +49,7 @@ This is an e-commerce frontend project created for a hackathon using React, Vite
     npm run dev
     ```
 
-4. **Open your browser and visit [http://localhost:3000](http://localhost:3000).**
+4. **Open your browser and visit [http://localhost:4173](http://localhost:4173).**
 
 ## Usage
 
